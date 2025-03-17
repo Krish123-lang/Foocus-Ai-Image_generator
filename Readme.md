@@ -1,0 +1,1 @@
+# Foocus AI image Generator
